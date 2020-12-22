@@ -16,7 +16,7 @@ Workshop|Offered by|Date |
 --------|----------|------
 Intro to Flutter dev |IEMCT manipal |July 2020 |  
 Emerging trends in robotics|Dept. of Mechatronics engineering MIT manipal |July 2020 |  
-30 days of Google Cloud|Developer Student clubs|Nov 2020|  
+30 days of Google Cloud|Developer Student clubs - Google |Nov 2020|  
 
 
  
