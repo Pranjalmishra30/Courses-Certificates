@@ -1,22 +1,22 @@
 ## Online Courses  
 
 Course|Offered by|Date      |
-------|----------|-----------
-Programming with Python|University of Michigan|Jan 2020|  
-Python Data Structures|University of Michigan|Jan 2020|  
-Python Classes and Inheritance|University of Michigan|Jan 2020|  
-Maths for ML: Linear Algebra|Imperial College London|April 2020|  
-Maths for ML: Multivariate Calculus|Imperial College London|June 2020|  
-Python for Data Science & AI|IBM|July 2020 |  
-Modern Robotics Specialisation|Northwestern University|July-Nov 2020|  
+------|----------|-----------  
+[Introduction to Tensorflow](Certificates/Intro2TF-DeepLearning.ai.pdf)|DeepLearning.ai|Feb 2022  
+[The Arduino Platform and C programming](Certificates/Arduino.pdf)|UC Irvine| Jan 2021  
+[Modern Robotics Specialisation](Certificates/Modern-Robotics)|Northwestern University|July-Oct 2020|  
+[Python for Data Science & AI](Certificates/Python-IBM.pdf)|IBM|July 2020 |  
+[Maths for ML Specialistion](Certificates/Maths-For-ML)|Imperial College London|April-June 2020|  
+[Programming with Python Specialisation](Certificates/Python4E)|University of Michigan|Jan 2020|    
 
-## Online Workshops and webinars  
+## Workshops and webinars  
 
 Workshop|Offered by|Date |
---------|----------|------
-Intro to Flutter dev |IEMCT manipal |July 2020 |  
-Emerging trends in robotics|Dept. of Mechatronics engineering MIT manipal |July 2020 |  
-30 days of Google Cloud|Developer Student clubs - Google |Nov 2020|  
+--------|----------|------  
+[30 days of Google Cloud](Certificates/30Days-of-GoogleCloud.pdf)|Developer Student clubs - Google |Nov 2020|  
+[Emerging trends in robotics](Reports/Emerging_Trends_Robotics_WS.pdf)|Dept. of Mechatronics engineering MIT manipal |July 2020 |  
+[Intro to Flutter dev](Certificates/FlutterWorkshop.pdf)|IEMCT manipal |July 2020 |  
+  
 
 
  
